@@ -1,5 +1,6 @@
 # ban-lec4-examples
 ## Coding solutions for Blockchain@NTU Lecture 4: Smart Contracts and Solidity
+Files are intended to be run in the Remix IDE.
 
 ### Task 1
  Write a “Greeter” Contract with a “greet” method that returns the string “Hello NTU!”
